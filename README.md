@@ -18,5 +18,4 @@ toast: ^0.1.5
 # НиЭМ
 
 <img src="./screen/01.jpg" width="50%">
-
 <img src="./screen/02.jpg" width="50%">
