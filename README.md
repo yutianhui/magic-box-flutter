@@ -19,6 +19,8 @@ toast: ^0.1.5
 
 <img src="./screen/01.jpg" width="50%">
 
+<img src="./screen/02.jpg" width="50%">
+
 ![home 首页面](./screen/01.jpg)  
 
 ![home 视频二级页面](./screen/02.jpg)  
