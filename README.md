@@ -2,7 +2,7 @@
 
 安卓移动端的开发框架,开发语言为dart,[下载连接](https://yutianhui.lanzoui.com/imbM2hkgrvg)  
 
-如果想要正常使用功能需要在腾讯申请Api接口,在lib/util下填写appKey和appId
+如果想要正常使用功能需要在腾讯申请Api接口(不提供我的),在lib/util下填写appKey和appId
 
 # 版本
 
